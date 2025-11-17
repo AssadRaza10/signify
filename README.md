@@ -63,11 +63,22 @@ See `requirements.txt`. A Python 3.9+ interpreter is recommended; GPU support fo
 
 This project is provided under the MIT License — see `LICENSE`.
 
+## Dataset
+
+This project uses hand keypoint data extracted from the **UAlpha40** dataset:
+
+**Sajid, Shahood; Javaid, Sameena; Baloch, Yusra (2025).** "UAlpha40: A Comprehensive Dataset of Urdu alphabets for Pakistan Sign Language". Mendeley Data, V3. doi: [10.17632/3pvnnckxyb.3](https://doi.org/10.17632/3pvnnckxyb.3)
+
+Also available at: https://www.sciencedirect.com/science/article/pii/S2352340925000745
+
+If you use this project, please also cite the UAlpha40 dataset in addition to citing this project.
+
 ## Acknowledgements
 
 - MediaPipe (for hand landmark detection)
 - TensorFlow / Keras for model training
 - OpenCV for image IO
+- UAlpha40 Dataset (Sajid et al., 2025) for providing comprehensive Urdu alphabet sign language images
 
 ## Contact
 
