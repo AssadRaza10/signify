@@ -82,7 +82,7 @@ If you use this project, please also cite the UAlpha40 dataset in addition to ci
 
 ## Contact
 
-Authors: Assadullah and Farhana Suleman — Lasbela University of Agriculture, Water and Marine Sciences
+Authors: Assadullah(assad.raza.101@gmail.com) and Farhana Suleman(farhanasulemanabro25@gmail.com) — Lasbela University of Agriculture, Water and Marine Sciences
 
 ## How to cite
 
