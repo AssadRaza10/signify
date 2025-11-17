@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software in a publication, please cite it as shown below."
+title: "Signify — Urdu Sign Language (Hand Keypoints)"
+version: "1.0.0"
+date-released: 2025-11-17
+authors:
+  - family-names: "Assadullah"
+    given-names: ""
+    affiliation: "Lasbela University of Agriculture, Water and Marine Sciences"
+  - family-names: "Suleman"
+    given-names: "Farhana"
+    affiliation: "Lasbela University of Agriculture, Water and Marine Sciences"
+preferred-citation:
+  type: "book"
+  title: "Signify — Urdu Sign Language (Hand Keypoints)"
+  authors:
+    - "Assadullah"
+    - "Farhana Suleman"
+  date: 2025
+  url: "https://github.com/AssadRaza10/signify"
+url: "https://github.com/AssadRaza10/signify"
+license: "https://creativecommons.org/licenses/by/4.0/"
