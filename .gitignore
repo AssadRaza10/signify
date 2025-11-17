@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python egg
+*.egg-info/
+
+# Model and large artifacts (uncomment if you prefer to keep models out of Git history)
+# *.h5
+# *.ckpt
+# *.pt
+# *.pkl
+
+# Data
+augmented_dataset/
