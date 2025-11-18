@@ -2,7 +2,7 @@
 
 A reproducible project for building a hand-keypoint-based Urdu Sign Language classifier. The repository contains code and notebooks used to extract hand landmarks with MediaPipe, augment image data, train a neural network classifier, and save model & preprocessing artifacts.
 
-Project created by Assadullah and Farhana Suleman at Lasbela University of Agriculture, Water and Marine Sciences.
+Project created by Assadullah, Farhana Suleman, Muhammad Asad, and Arfa Azeem at Lasbela University of Agriculture, Water and Marine Sciences.
 
 ## Contents
 
@@ -82,7 +82,7 @@ If you use this project, please also cite the UAlpha40 dataset in addition to ci
 
 ## Contact
 
-Authors: Assadullah and Farhana Suleman — Lasbela University of Agriculture, Water and Marine Sciences
+Authors: Assadullah, Farhana Suleman, Muhammad Asad, and Arfa Azeem — Lasbela University of Agriculture, Water and Marine Sciences
 
 ## How to cite
 
